@@ -9,7 +9,6 @@ class ImageUploader < CarrierWave::Uploader::Base
   # storage :file
 
   storage :qiniu
-
   # storage :fog
 
   # Override the directory where uploaded files will be stored.
