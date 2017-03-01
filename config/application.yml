@@ -10,7 +10,7 @@
 #   stripe_api_key: sk_live_EeHnL644i6zo4Iyq4v1KdV9H
 #   stripe_publishable_key: pk_live_9lcthxpSIHbGwmdO941O1XVU
 
- production:
+production:
    qiniu_access_key: 1vbapfZkKkR-xpOLPwlAZgu_gWzAN8OlewgxFpxa  # 你的 qiniu AccessKey
 
    qiniu_secret_key: xbfhJS7sENNt7Oy85lbABPAPhlOqZW4eUdmfnS4-  # 你的 qiniu SecretKey
@@ -20,8 +20,7 @@
    qiniu_bucket_domain: olusjo778.bkt.clouddn.com  # 你的 qiniu bucket domain
 
 
-
- development:
+development:
    qiniu_access_key: 1vbapfZkKkR-xpOLPwlAZgu_gWzAN8OlewgxFpxa  # 你的 qiniu AccessKey
 
    qiniu_secret_key: xbfhJS7sENNt7Oy85lbABPAPhlOqZW4eUdmfnS4-  # 你的 qiniu SecretKey
