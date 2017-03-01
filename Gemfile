@@ -41,7 +41,10 @@ gem 'aasm'
 gem 'carrierwave-qiniu'
 gem 'qiniu-rs'
 gem 'figaro'
+<<<<<<< HEAD
 
+=======
+>>>>>>> 44e20f64d6f74715257ebc8ef10f3189df31946a
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
